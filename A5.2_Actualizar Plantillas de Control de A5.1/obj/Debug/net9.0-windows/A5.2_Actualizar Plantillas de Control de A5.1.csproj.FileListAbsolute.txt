@@ -1,0 +1,57 @@
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\Styles\Estilos.baml
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1_MarkupCompile.cache
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1_MarkupCompile.lref
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.exe
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.deps.json
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.runtimeconfig.json
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.pdb
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\RestSharp.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\Views\MainWindow.baml
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.g.resources
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.AssemblyInfo.cs
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Act.FE71148A.Up2Date
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\refint\A5.2_Actualizar Plantillas de Control de A5.1.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.pdb
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1.genruntimeconfig.cache
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\ref\A5.2_Actualizar Plantillas de Control de A5.1.dll
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\bin\Debug\net9.0-windows\Assets\food.ico
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\A5.2_Actualizar Plantillas de Control de A5.1_Content.g.cs
+C:\Users\alumno\Desktop\2ºDAM\DINT\A5.2_Actualizar Plantillas de Control de A5.1\obj\Debug\net9.0-windows\App.baml
